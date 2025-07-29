@@ -1,0 +1,5 @@
+1- Jupyter uygulamaları görsel.ipynb dosyasında hücre hücre çalıştırılabilir haldedir.
+2- Camera_detection.py dosyası beyaz robotun tespit ve takip edildiği dosyadır.
+3- api.py ile websockete veri iletme ve çekme olayları yapılmaktadır.
+4- esp32bot bu sistem için özel geliştirilmiş metotları olan python kütüphanesidir.
+5- Diğer .ino uzantılı dosyalar bno055,icm-20948 ve ınfrared karttan veri çekme scriptleridir. son adlı dosya iso bunların bir websockette toplanmış halidir. 
